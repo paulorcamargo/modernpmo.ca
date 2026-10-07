@@ -10,7 +10,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 BIZ = "ModernPMO Consulting and Technology LTD."
 ADDR = "52 Macewan Ridge Close NW, Calgary, Alberta T3K 3G6"
-EMAIL = "paulo.camargo@modernpmo.com"
+EMAIL = "paulo.camargo@modernpmo.ca"
 UPDATED = {"en": "Last updated: October 6, 2026", "pt": "Última atualização: 6 de outubro de 2026"}
 
 CARD_MARKS = (
@@ -400,7 +400,7 @@ PAYMENTS_EN = f"""
       <li>This website is served only over encrypted HTTPS (TLS).</li>
       <li>Card payments are entered on, and processed by, Wise's PCI DSS-compliant payment page. Card details are transmitted encrypted directly to the payment provider.</li>
       <li>ModernPMO <strong>never receives, sees or stores</strong> your full card number, expiry date or security code.</li>
-      <li>We will never ask for card details by email, phone or through our website forms. Payment links are sent only from an <strong>@modernpmo.com</strong> email address. If you receive a suspicious request, contact us before paying.</li>
+      <li>We will never ask for card details by email, phone or through our website forms. Payment links are sent only from an <strong>@modernpmo.ca</strong> email address. If you receive a suspicious request, contact us before paying.</li>
     </ul>
 
     <h2>7. Receipts, refunds and cancellations</h2>
@@ -445,7 +445,7 @@ PAYMENTS_PT = f"""
       <li>Este site é servido somente por HTTPS criptografado (TLS).</li>
       <li>Os dados do cartão são digitados e processados na página de pagamento da Wise, em conformidade com o PCI DSS, e transmitidos de forma criptografada diretamente ao provedor de pagamentos.</li>
       <li>A ModernPMO <strong>nunca recebe, vê ou armazena</strong> o número completo, a validade ou o código de segurança do seu cartão.</li>
-      <li>Nunca pedimos dados de cartão por e-mail, telefone ou formulários do site. Links de pagamento são enviados apenas de um endereço <strong>@modernpmo.com</strong>. Se receber uma solicitação suspeita, fale conosco antes de pagar.</li>
+      <li>Nunca pedimos dados de cartão por e-mail, telefone ou formulários do site. Links de pagamento são enviados apenas de um endereço <strong>@modernpmo.ca</strong>. Se receber uma solicitação suspeita, fale conosco antes de pagar.</li>
     </ul>
 
     <h2>7. Recibos, reembolsos e cancelamentos</h2>
