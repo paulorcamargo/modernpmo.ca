@@ -9,7 +9,7 @@ import os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 BIZ = "ModernPMO Consulting and Technology LTD."
-ADDR = "52 Macewan Ridge Close NW, Calgary, Alberta [POSTAL CODE]"
+ADDR = "52 Macewan Ridge Close NW, Calgary, Alberta T3K 3G6"
 EMAIL = "paulo.camargo@modernpmo.com"
 UPDATED = {"en": "Last updated: October 6, 2026", "pt": "Última atualização: 6 de outubro de 2026"}
 
@@ -99,7 +99,7 @@ TERMS_EN = f"""
     <p>These Terms &amp; Conditions ("Terms") apply to all consulting, implementation, mentoring and training services ("Services") provided by {BIZ} ("ModernPMO", "we", "us"), a company based in Calgary, Alberta, Canada, to the client named in a proposal ("Client", "you").</p>
 
     <h2>1. Services</h2>
-    <p>Our Services include PMO diagnostics, PMO implementation and improvement, PMO consulting and interim PMO leadership, PMIS (Project Management Information System) implementation, portfolio management, governance and methodology, reporting and Power BI dashboards, and mentoring and training. Services are professional services. No physical goods are sold or shipped.</p>
+    <p>Our Services include PMO diagnostics, PMO implementation and improvement, PMO consulting and interim PMO leadership, PMIS (Project Management Information System) implementation, portfolio management, governance and methodology, reporting and Power BI dashboards, mentoring and coaching, and training courses (including project management, productivity with Microsoft 365 and Microsoft tools, and AI tools). Services are professional services. No physical goods are sold or shipped.</p>
     <p>The exact scope, deliverables, schedule, format (remote or on-site) and fees of each engagement are described in a written proposal or statement of work ("Proposal").</p>
 
     <h2>2. Requests, proposals and acceptance</h2>
@@ -161,7 +161,7 @@ TERMS_PT = f"""
     <p>Estes Termos e Condições ("Termos") se aplicam a todos os serviços de consultoria, implantação, mentoria e treinamento ("Serviços") prestados pela {BIZ} ("ModernPMO", "nós"), empresa sediada em Calgary, Alberta, Canadá, ao cliente indicado em uma proposta ("Cliente", "você"). Esta é uma tradução; em caso de divergência, prevalece a <a href="/terms.html">versão em inglês</a>.</p>
 
     <h2>1. Serviços</h2>
-    <p>Nossos Serviços incluem diagnóstico de PMO, implantação e melhoria de PMO, consultoria e liderança interina de PMO, implantação de PMIS (Sistema de Informações de Gerenciamento de Projetos), gestão de portfólio, governança e metodologia, relatórios e dashboards em Power BI, e mentoria e treinamento. Os Serviços são serviços profissionais. Nenhum produto físico é vendido ou enviado.</p>
+    <p>Nossos Serviços incluem diagnóstico de PMO, implantação e melhoria de PMO, consultoria e liderança interina de PMO, implantação de PMIS (Sistema de Informações de Gerenciamento de Projetos), gestão de portfólio, governança e metodologia, relatórios e dashboards em Power BI, mentoria e coaching, e cursos de treinamento (incluindo gerenciamento de projetos, produtividade com Microsoft 365 e ferramentas Microsoft, e ferramentas de IA). Os Serviços são serviços profissionais. Nenhum produto físico é vendido ou enviado.</p>
     <p>O escopo, os entregáveis, o cronograma, o formato (remoto ou presencial) e os valores de cada projeto são descritos em uma proposta ou declaração de trabalho por escrito ("Proposta").</p>
 
     <h2>2. Solicitações, propostas e aceite</h2>
@@ -387,8 +387,8 @@ PAYMENTS_EN = f"""
     <ul>
       <li>We sell professional services only. <strong>No physical goods are shipped</strong>, so there are no shipping charges.</li>
       <li>Services are delivered remotely by video conference, or on-site at the location agreed in the proposal.</li>
-      <li>Reports, documents, PMIS configurations and Power BI dashboards are delivered electronically (email, shared folder or your own systems).</li>
-      <li>Start dates and timelines are confirmed in the proposal. Typical durations: executive workshop 1 day; PMO diagnostic 2–3 weeks; PMO implementation or improvement 6–12 weeks; PMIS implementation 4–12 weeks; consulting and mentoring monthly.</li>
+      <li>Training is delivered live online or in-company. Course materials, reports, documents, PMIS configurations and Power BI dashboards are delivered electronically (email, shared folder or your own systems).</li>
+      <li>Start dates and timelines are confirmed in the proposal. Typical durations: training courses and workshops ½ to 3 days; PMO diagnostic 2–3 weeks; PMO implementation or improvement 6–12 weeks; PMIS implementation 4–12 weeks; consulting and mentoring monthly.</li>
       <li>There is no special or expedited delivery option, but urgent start dates can be discussed in the proposal.</li>
     </ul>
 
@@ -432,8 +432,8 @@ PAYMENTS_PT = f"""
     <ul>
       <li>Vendemos apenas serviços profissionais. <strong>Nenhum produto físico é enviado</strong>, portanto não há custo de frete.</li>
       <li>Os serviços são prestados remotamente por videoconferência, ou presencialmente no local acordado na proposta.</li>
-      <li>Relatórios, documentos, configurações de PMIS e dashboards de Power BI são entregues eletronicamente (e-mail, pasta compartilhada ou nos seus próprios sistemas).</li>
-      <li>Datas de início e prazos são confirmados na proposta. Durações típicas: workshop executivo 1 dia; diagnóstico de PMO 2–3 semanas; implantação ou melhoria de PMO 6–12 semanas; implantação de PMIS 4–12 semanas; consultoria e mentoria mensais.</li>
+      <li>Treinamentos são realizados ao vivo online ou in-company. Materiais, relatórios, documentos, configurações de PMIS e dashboards de Power BI são entregues eletronicamente (e-mail, pasta compartilhada ou nos seus próprios sistemas).</li>
+      <li>Datas de início e prazos são confirmados na proposta. Durações típicas: treinamentos e workshops de ½ a 3 dias; diagnóstico de PMO 2–3 semanas; implantação ou melhoria de PMO 6–12 semanas; implantação de PMIS 4–12 semanas; consultoria e mentoria mensais.</li>
       <li>Não há opção de entrega especial ou expressa, mas inícios urgentes podem ser discutidos na proposta.</li>
     </ul>
 

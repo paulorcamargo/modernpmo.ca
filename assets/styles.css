@@ -285,3 +285,5 @@ section.alt {
 .card-marks svg { width: 56px; height: 35px; display: block; }
 .step a { color: var(--brand-light); }
 @media (max-width: 720px) { .pay-strip { flex-direction: column; align-items: flex-start; } }
+
+.training-note { margin-top: 32px; color: var(--muted); font-size: 0.95rem; border-left: 2px solid var(--brand); padding-left: 16px; }
