@@ -14,3 +14,10 @@ Static website for **ModernPMO Consulting and Technology LTD.**, hosted on GitHu
 The service request form posts to [FormSubmit](https://formsubmit.co). The first submission sends an activation email to the receiving address. Click it once to activate.
 
 No build step for the home pages. Edit the HTML and push to `main` to publish.
+
+## Free PMO assessment
+
+The "Free assessment" / "Diagnóstico gratuito" section links to the assessment app at
+`https://assessment.modernpmo.ca/en` (English) and `https://assessment.modernpmo.ca/` (Portuguese).
+The app is a separate Next.js project (repo `PMO-Hub`, folder `Code PMO Assessment/modernpmo-mvp/modernpmo`)
+hosted on Vercel. **Deploy it and point the `assessment` CNAME at Vercel before publishing these links.**
